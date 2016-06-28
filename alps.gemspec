@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Thomas Beihl"]
   spec.email         = ["tmbeihl@tmbeihl.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{The Adventist Living Pattern System packaged for the Rails Asset Pipeline}
+  spec.description   = %q{The Adventist Living Pattern System is a pattern library that any Adventist church, school or institution can use.}
+  spec.homepage      = "http://adventist.io"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
